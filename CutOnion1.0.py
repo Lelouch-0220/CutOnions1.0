@@ -79,4 +79,4 @@ async def on_member_remove(member):
 
 
 
-client.run("ODQ4NTIxMzg3MTIzMDE1NzQx.YLN1Hw.7lVMbkOCjHAblJb2KePDa_QMzG8")
+client.run("xxx")
