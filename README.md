@@ -1,2 +1,2 @@
 # CutOnions1.0
-Casual Bot
+Casual Discord Bot
